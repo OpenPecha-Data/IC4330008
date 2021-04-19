@@ -3,149 +3,128 @@ annotation_type: pagination
 revision: '00001'
 annotations:
   89209c4dbd184b80a8b086416b383e26:
-    page_index: 1a
-    page_info: null
-    reference: '46420001'
+    imgnum: 1
+    reference: 46420001.tif
     span:
       start: 0
       end: 680
   3d962785412b40559d666e5d2912b05b:
-    page_index: 1b
-    page_info: null
-    reference: '46420002'
+    imgnum: 2
+    reference: 46420002.tif
     span:
       start: 685
       end: 1185
   7b25b08cb12e4995b7e88e278805b267:
-    page_index: 2a
-    page_info: null
-    reference: '46420003'
+    imgnum: 3
+    reference: 46420003.tif
     span:
       start: 1190
       end: 1464
   d8902016d1874318b720ad2a8daf7eb4:
-    page_index: 2b
-    page_info: null
-    reference: '46420004'
+    imgnum: 4
+    reference: 46420004.tif
     span:
       start: 1469
       end: 1613
   24db466f68e046d4b7cde50b71b37ad0:
-    page_index: 3a
-    page_info: null
-    reference: '46420005'
+    imgnum: 5
+    reference: 46420005.tif
     span:
       start: 1618
       end: 1687
   f06279ce04b84c73a71c9e607d2ab8fe:
-    page_index: 3b
-    page_info: null
-    reference: '46420006'
+    imgnum: 6
+    reference: 46420006.tif
     span:
       start: 1692
       end: 2156
   57179eb401d548e7aa68b623e868f1ed:
-    page_index: 4a
-    page_info: null
-    reference: '46420007'
+    imgnum: 7
+    reference: 46420007.tif
     span:
       start: 2161
       end: 2717
   42d950100c234b6c8493eee7bf7aeedc:
-    page_index: 4b
-    page_info: null
-    reference: '46420008'
+    imgnum: 8
+    reference: 46420008.tif
     span:
       start: 2722
       end: 3364
   993ca3843be04de4856999a73b84b96c:
-    page_index: 5a
-    page_info: null
-    reference: '46420009'
+    imgnum: 9
+    reference: 46420009.tif
     span:
       start: 3369
       end: 4052
   62fc97fcfce8461fbd3b5ceead4dabaf:
-    page_index: 5b
-    page_info: null
-    reference: '46420010'
+    imgnum: 10
+    reference: 46420010.tif
     span:
       start: 4057
       end: 4728
   87e026d972bc4306911a598328ba33d3:
-    page_index: 6a
-    page_info: null
-    reference: '46420011'
+    imgnum: 11
+    reference: 46420011.tif
     span:
       start: 4733
       end: 5422
   6903e72003f2496d92a882cce51219f8:
-    page_index: 6b
-    page_info: null
-    reference: '46420012'
+    imgnum: 12
+    reference: 46420012.tif
     span:
       start: 5427
       end: 6174
   ddd88dd316e945a0b9280877ae22d9f2:
-    page_index: 7a
-    page_info: null
-    reference: '46420013'
+    imgnum: 13
+    reference: 46420013.tif
     span:
       start: 6179
       end: 7032
   9bcb5bd02db14df5a2143fe57734e8b9:
-    page_index: 7b
-    page_info: null
-    reference: '46420014'
+    imgnum: 14
+    reference: 46420014.tif
     span:
       start: 7037
       end: 7888
   5b2904bc2eb9441eaed6fb2149181e34:
-    page_index: 8a
-    page_info: null
-    reference: '46420015'
+    imgnum: 15
+    reference: 46420015.tif
     span:
       start: 7893
       end: 8840
   51f087793a6946249d852a162c1f0123:
-    page_index: 8b
-    page_info: null
-    reference: '46420016'
+    imgnum: 16
+    reference: 46420016.tif
     span:
       start: 8845
       end: 9540
   94dc30dd4bbc4a0696a9cfad3a4efcc8:
-    page_index: 9a
-    page_info: null
-    reference: '46420017'
+    imgnum: 17
+    reference: 46420017.tif
     span:
       start: 9545
       end: 10316
   effa01f9fb3c49bf8a0bf54d585a9e38:
-    page_index: 9b
-    page_info: null
-    reference: '46420018'
+    imgnum: 18
+    reference: 46420018.tif
     span:
       start: 10321
       end: 11059
   be87e667b88246d2b1c3d0d5059f8b7e:
-    page_index: 10a
-    page_info: null
-    reference: '46420019'
+    imgnum: 19
+    reference: 46420019.tif
     span:
       start: 11064
       end: 11944
   4fe69dc9beec4f05bb5e8d0bc821a2bc:
-    page_index: 10b
-    page_info: null
-    reference: '46420020'
+    imgnum: 20
+    reference: 46420020.tif
     span:
       start: 11949
       end: 12814
   3a734d1be7484072bf1187b8b7e3f709:
-    page_index: 11a
-    page_info: null
-    reference: '46420021'
+    imgnum: 21
+    reference: 46420021.tif
     span:
       start: 12819
       end: 13486
